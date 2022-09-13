@@ -13,4 +13,26 @@ _(This is a Github alternative to Jen's awesome ["Hitting the bullseye" Confluen
 |   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 
+## Goal 2: [insert goal]
+
+- Achieved Measure: [how would you know this is done]
+- Exceeded Measure: [how would you know this has smashed expectations]
+
+| Objectives  	| Action Plan  	| Resources Needed  	| Potential Barriers  	| Due Date  	| Status  	| Evidence Date  	|
+|---	|---	|---	|---	|---	|---	|---	|
+| [outcome based objective]  	| [step by step actions]  	| [people, tools, capacity]  	| [blockers, costs, time]  	| [yyyy-mm-dd]  	|  🛑 🟠 ✅	| [Outputs and notes]  	|
+|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|
+
+## Goal 3: [insert goal]
+
+- Achieved Measure: [how would you know this is done]
+- Exceeded Measure: [how would you know this has smashed expectations]
+
+| Objectives  	| Action Plan  	| Resources Needed  	| Potential Barriers  	| Due Date  	| Status  	| Evidence Date  	|
+|---	|---	|---	|---	|---	|---	|---	|
+| [outcome based objective]  	| [step by step actions]  	| [people, tools, capacity]  	| [blockers, costs, time]  	| [yyyy-mm-dd]  	|  🛑 🟠 ✅	| [Outputs and notes]  	|
+|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|
+
 Key: 🛑 Not started  🟠 In progress  ✅ Complete
